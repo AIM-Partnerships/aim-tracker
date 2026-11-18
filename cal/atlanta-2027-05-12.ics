@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Atlanta Career Fair
+BEGIN:VEVENT
+UID:aim-atlanta-20270512@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270512T153000Z
+DTEND:20270512T183000Z
+SUMMARY:AIM Atlanta Career Fair
+LOCATION:Aviation Institute of Maintenance\, 2025 Satellite Pointe\, D
+ uluth\, GA 30096
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 10:30 AM. Register by Wed\, Apr 2
+ 8: https://aim-partnerships.github.io/aim-tracker/careerfairs.html Qu
+ estions: Tammy Thomas\, tathomas@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

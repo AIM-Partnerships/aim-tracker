@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Orlando Career Fair
+BEGIN:VEVENT
+UID:aim-orlando-20270519@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270519T163000Z
+DTEND:20270519T213000Z
+SUMMARY:AIM Orlando Career Fair
+LOCATION:Aviation Institute of Maintenance\, 2725 S. U.S. Highway 17/9
+ 2\, Casselberry\, FL 32707
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 11:30 AM. Register by Wed\, May 5
+ : https://aim-partnerships.github.io/aim-tracker/careerfairs.html Que
+ stions: Sheena Tonge\, stonge@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

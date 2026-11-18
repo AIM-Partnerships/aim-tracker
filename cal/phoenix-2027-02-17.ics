@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Phoenix Career Fair
+BEGIN:VEVENT
+UID:aim-phoenix-20270217@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270219
+SUMMARY:AIM Phoenix Career Fair
+LOCATION:Aviation Institute of Maintenance\, 4025 S. 32nd Street\, Pho
+ enix\, AZ 85040
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Times to be announced. Register by Wed\, Feb 3: htt
+ ps://aim-partnerships.github.io/aim-tracker/careerfairs.html Question
+ s: Rachel Strelka\, rstrelka@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

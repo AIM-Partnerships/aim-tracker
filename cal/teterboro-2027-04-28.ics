@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Teterboro Career Fair
+BEGIN:VEVENT
+UID:aim-teterboro-20270428@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270428T180000Z
+DTEND:20270428T230000Z
+SUMMARY:AIM Teterboro Career Fair
+LOCATION:Aviation Institute of Maintenance\, 459 State Route 17\, Hasb
+ rouck Heights\, NJ 07604
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 1:00 PM. Register by Wed\, Apr 14
+ : https://aim-partnerships.github.io/aim-tracker/careerfairs.html Que
+ stions: Michelle Morales\, mimorales@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

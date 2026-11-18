@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Houston Career Fair
+BEGIN:VEVENT
+UID:aim-houston-20270303@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270303T190000Z
+DTEND:20270304T000000Z
+SUMMARY:AIM Houston Career Fair
+LOCATION:Aviation Institute of Maintenance\, 7651 Airport Boulevard\, 
+ Houston\, TX 77061
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 12:00 PM. Register by Wed\, Feb 1
+ 7: https://aim-partnerships.github.io/aim-tracker/careerfairs.html Qu
+ estions: Meira Plant\, mplant@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Fremont Career Fair
+BEGIN:VEVENT
+UID:aim-fremont-20270420@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270420T210000Z
+DTEND:20270421T000000Z
+SUMMARY:AIM Fremont Career Fair
+LOCATION:Aviation Institute of Maintenance\, 420 Whitney Place\, Fremo
+ nt\, CA 94539
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 1:00 PM. Register by Tue\, Apr 6:
+  https://aim-partnerships.github.io/aim-tracker/careerfairs.html Ques
+ tions: Aranzu Grissom\, agrissom@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

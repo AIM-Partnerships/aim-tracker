@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Spring 2027 Career Fairs
+BEGIN:VEVENT
+UID:aim-atlanta-20270127@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270127T163000Z
+DTEND:20270127T193000Z
+SUMMARY:AIM Atlanta Career Fair
+LOCATION:Aviation Institute of Maintenance\, 2025 Satellite Pointe\, D
+ uluth\, GA 30096
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 10:30 AM. Register by Wed\, Jan 1
+ 3: https://aim-partnerships.github.io/aim-tracker/careerfairs.html Qu
+ estions: Tammy Thomas\, tathomas@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-phoenix-20270217@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270219
+SUMMARY:AIM Phoenix Career Fair
+LOCATION:Aviation Institute of Maintenance\, 4025 S. 32nd Street\, Pho
+ enix\, AZ 85040
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Times to be announced. Register by Wed\, Feb 3: htt
+ ps://aim-partnerships.github.io/aim-tracker/careerfairs.html Question
+ s: Rachel Strelka\, rstrelka@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-houston-20270303@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270303T190000Z
+DTEND:20270304T000000Z
+SUMMARY:AIM Houston Career Fair
+LOCATION:Aviation Institute of Maintenance\, 7651 Airport Boulevard\, 
+ Houston\, TX 77061
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 12:00 PM. Register by Wed\, Feb 1
+ 7: https://aim-partnerships.github.io/aim-tracker/careerfairs.html Qu
+ estions: Meira Plant\, mplant@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-lasvegas-20270324@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270325T000000Z
+DTEND:20270325T020000Z
+SUMMARY:AIM Las Vegas Career Fair (Evening)
+LOCATION:Aviation Institute of Maintenance\, 5870 S. Eastern Avenue\, 
+ Las Vegas\, NV 89119
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 4:00 PM (Wed) / 10:00 AM (Thu). R
+ egister by Wed\, Mar 10: https://aim-partnerships.github.io/aim-track
+ er/careerfairs.html Questions: Virginia Lopez\, vlopez@aviationmainte
+ nance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-lasvegas-20270325@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270325T180000Z
+DTEND:20270325T200000Z
+SUMMARY:AIM Las Vegas Career Fair (Day)
+LOCATION:Aviation Institute of Maintenance\, 5870 S. Eastern Avenue\, 
+ Las Vegas\, NV 89119
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 4:00 PM (Wed) / 10:00 AM (Thu). R
+ egister by Wed\, Mar 10: https://aim-partnerships.github.io/aim-track
+ er/careerfairs.html Questions: Virginia Lopez\, vlopez@aviationmainte
+ nance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-fremont-20270420@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270420T210000Z
+DTEND:20270421T000000Z
+SUMMARY:AIM Fremont Career Fair
+LOCATION:Aviation Institute of Maintenance\, 420 Whitney Place\, Fremo
+ nt\, CA 94539
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 1:00 PM. Register by Tue\, Apr 6:
+  https://aim-partnerships.github.io/aim-tracker/careerfairs.html Ques
+ tions: Aranzu Grissom\, agrissom@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-teterboro-20270428@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270428T180000Z
+DTEND:20270428T230000Z
+SUMMARY:AIM Teterboro Career Fair
+LOCATION:Aviation Institute of Maintenance\, 459 State Route 17\, Hasb
+ rouck Heights\, NJ 07604
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 1:00 PM. Register by Wed\, Apr 14
+ : https://aim-partnerships.github.io/aim-tracker/careerfairs.html Que
+ stions: Michelle Morales\, mimorales@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-atlanta-20270512@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270512T153000Z
+DTEND:20270512T183000Z
+SUMMARY:AIM Atlanta Career Fair
+LOCATION:Aviation Institute of Maintenance\, 2025 Satellite Pointe\, D
+ uluth\, GA 30096
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 10:30 AM. Register by Wed\, Apr 2
+ 8: https://aim-partnerships.github.io/aim-tracker/careerfairs.html Qu
+ estions: Tammy Thomas\, tathomas@aviation.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-orlando-20270519@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270519T163000Z
+DTEND:20270519T213000Z
+SUMMARY:AIM Orlando Career Fair
+LOCATION:Aviation Institute of Maintenance\, 2725 S. U.S. Highway 17/9
+ 2\, Casselberry\, FL 32707
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 11:30 AM. Register by Wed\, May 5
+ : https://aim-partnerships.github.io/aim-tracker/careerfairs.html Que
+ stions: Sheena Tonge\, stonge@aviationmaintenance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR

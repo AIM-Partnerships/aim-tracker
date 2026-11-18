@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aviation Institute of Maintenance//Career Fairs//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AIM Las Vegas Career Fair
+BEGIN:VEVENT
+UID:aim-lasvegas-20270324@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270325T000000Z
+DTEND:20270325T020000Z
+SUMMARY:AIM Las Vegas Career Fair (Evening)
+LOCATION:Aviation Institute of Maintenance\, 5870 S. Eastern Avenue\, 
+ Las Vegas\, NV 89119
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 4:00 PM (Wed) / 10:00 AM (Thu). R
+ egister by Wed\, Mar 10: https://aim-partnerships.github.io/aim-track
+ er/careerfairs.html Questions: Virginia Lopez\, vlopez@aviationmainte
+ nance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:aim-lasvegas-20270325@aim-partnerships.github.io
+DTSTAMP:20261118T220000Z
+DTSTART:20270325T180000Z
+DTEND:20270325T200000Z
+SUMMARY:AIM Las Vegas Career Fair (Day)
+LOCATION:Aviation Institute of Maintenance\, 5870 S. Eastern Avenue\, 
+ Las Vegas\, NV 89119
+DESCRIPTION:Aviation Institute of Maintenance employer career fair. No
+  cost to exhibit. Employer check-in 4:00 PM (Wed) / 10:00 AM (Thu). R
+ egister by Wed\, Mar 10: https://aim-partnerships.github.io/aim-track
+ er/careerfairs.html Questions: Virginia Lopez\, vlopez@aviationmainte
+ nance.edu
+URL:https://aim-partnerships.github.io/aim-tracker/careerfairs.html
+END:VEVENT
+END:VCALENDAR
